@@ -1,4 +1,8 @@
 # -*- coding: utf-8 -*-
+"""
+This is drilling a torque chart for WFL M65 S1 spindle
+TODO:All of it...
+"""
 import dash
 import dash_core_components as dcc
 import dash_html_components as html
