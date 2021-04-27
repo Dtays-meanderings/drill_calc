@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-This is drilling a torque chart for WFL M65 S1 spindle
+This is a drilling torque chart for WFL M65 S1 spindle
 TODO:All of it...
 """
 import dash
